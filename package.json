@@ -1,8 +1,11 @@
 {
-  "name": "gulp-concat",
+  "name": "regme-gulp-concat",
   "description": "Concatenates files",
-  "version": "2.6.1",
-  "repository": "gulp-community/gulp-concat",
+  "version": "2.6.2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Regme-Ltd/gulp-concat.git"
+  },
   "author": "Contra <yo@contra.io> (http://contra.io/)",
   "files": [
     "index.js"
